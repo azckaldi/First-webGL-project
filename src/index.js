@@ -1,12 +1,4 @@
-console.log('Hello webpack')
+//import three JS
 
-// Hot : comment to use live reload
-// if(module.hot)
-// {
-//     module.hot.accept()
+import * as THREE from 'tree'
 
-//     module.hot.dispose(() =>
-//     {
-//         console.log('dispose')
-//     })
-// }
